@@ -10,7 +10,13 @@ Before running the server and tests, ensure you have the following installed:
 
 ## Setting Up the Project
 
-1. **Install Dependencies**
+1. **Getting Project File**
+   Either clone the project from git link
+   ```
+   https://github.com/boardwallfloor/slim-api
+   ```
+   or from attached email file
+2. **Install Dependencies**
 
    Install the required PHP packages via Composer:
 
